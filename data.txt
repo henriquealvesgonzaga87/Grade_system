@@ -1,0 +1,5 @@
+Henrique;[55.0, 60.0, 58.5];57.83;Retake Test
+Bruno;[80.0, 90.0, 95.75];88.58;Approved
+Maria;[65.0, 75.0, 80.0];73.33;Approved
+Pedro;[35.0, 40.0, 37.5];37.50;Repproved
+Joâo;[56.0, 75.55, 25.35];52.30;Retake Test
